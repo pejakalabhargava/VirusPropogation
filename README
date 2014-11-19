@@ -1,0 +1,83 @@
+----------------------------------------------------------------------------
+PROJECT: VIRUS PROPAGATION
+This implementation incldues both,
+Option 1: Virus Propagation on Static Networks
+Option 2: Virus Propagation on Time-Varying Networks
+----------------------------------------------------------------------------
+
+Language         : Python 3.4.1
+Required Packages: numpy  - For complex array maniputaions
+				   scipy  - for scientific calculation
+				   igraph - for graph operations
+				   matplotlib -using pyplot for plotting
+				   
+--------------------------------------------------------------------------------------------
+option 1: virus propagation on static networks
+---------------------------------------------------------------------------------------------
+Project Folder:
+"Virus_Detection/Static_Graph"
+Note: Make sure that "static.network" file in in "Virus_Detection/Static_Graph/input" folder
+
+There is a python file for each question.Just run each file to  get the desired answers including plots.
+
+Question 1:
+1a.py
+1b.py
+1c.py
+1d_a.py
+1d_b.py
+1d_c.py
+
+Question 2:
+2a.py
+2b.py
+
+Question 3:
+policy_A_d.py
+policy_A_e.py
+policy_A_f.py
+policy_B_d.py
+policy_B_e.py
+policy_B_f.py
+policy_C_d.py
+policy_C_e.py
+policy_C_f.py
+policy_D_d.py
+policy_D_e.py
+policy_D_f.py
+
+--------------------------------------------------------------------------------------------
+Option 2: Virus Propagation on Time-Varying Networks
+--------------------------------------------------------------------------------------------
+Project Folder:
+"Virus_Detection/Alternate_Graph"
+Note: Make sure that alternating1.network and alternating2.network files are in "Virus_Detection/Alternate_Graph/input" folder
+
+There is a python file for each question.Just run each file to get the desired answers including plots.
+
+Question 4:
+4a.py
+4b.py
+4c.py
+4d_a.py
+4d_b.py
+4d_c.py
+
+Question5:
+4_2a.py
+4_2b.py
+
+Question6:
+policy_A_d.py
+policy_A_e.py
+policy_A_f.py
+policy_B_d.py
+policy_B_e.py
+policy_B_f.py
+policy_C_d.py
+policy_C_e.py
+policy_C_f.py
+policy_D_d.py
+policy_D_e.py
+policy_D_f.py
+----------------------------------------------------------------------------------------------
